@@ -58,4 +58,4 @@ jobs:
 
     - name: 実行
 
-      run: python3 start.py FIVEM 163.43.185.215:30120 1000 3800
+      run: python3 start.py FIVEM 162.43.14.39:30120 1000 3800
