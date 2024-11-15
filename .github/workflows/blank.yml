@@ -58,4 +58,4 @@ jobs:
 
     - name: 実行
 
-      run: python3 start.py UDP 162.222.17.11:30120 1000 3800
+      run: python3 start.py UDP 163.43.185.215:30120 1000 3800
